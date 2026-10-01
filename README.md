@@ -57,8 +57,8 @@ The TOTP algorithm is implemented from scratch using only Python's standard libr
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/divyansh-ks/Authenticator.git
+cd Authenticator
 
 # 2. (Recommended) Create and activate a virtual environment
 python -m venv venv
